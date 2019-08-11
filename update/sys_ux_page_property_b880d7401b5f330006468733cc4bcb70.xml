@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Exclude/include user preferences in workspace chrome.</description>
+        <name>ws_active_user_pref</name>
+        <page display_value="Test_integration">f48053001b5f330006468733cc4bcbbf</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-11 19:22:22</sys_created_on>
+        <sys_id>b880d7401b5f330006468733cc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_user_pref</sys_name>
+        <sys_package display_value="Test_integration" source="x_73996_test_integ">c9ff07841b1f330006468733cc4bcb2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_integration">c9ff07841b1f330006468733cc4bcb2c</sys_scope>
+        <sys_update_name>sys_ux_page_property_b880d7401b5f330006468733cc4bcb70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-11 19:22:22</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_73996_test_integ.ws_active_user_pref</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b880d7401b5f330006468733cc4bcb70"/>
+</record_update>
