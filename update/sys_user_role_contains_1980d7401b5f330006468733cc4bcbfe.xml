@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
-        <role display_value="test_integration" name="test_integration">d980d7401b5f330006468733cc4bcbf6</role>
+        <role display_value="x_73996_test_integ.service" name="x_73996_test_integ.service">d980d7401b5f330006468733cc4bcbf6</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-11 19:22:24</sys_created_on>

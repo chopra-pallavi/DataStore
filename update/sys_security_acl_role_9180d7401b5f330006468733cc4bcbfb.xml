@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_9180d7401b5f330006468733cc4bcbfb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-08-11 19:22:24</sys_updated_on>
-        <sys_user_role display_value="test_integration" name="test_integration">d980d7401b5f330006468733cc4bcbf6</sys_user_role>
+        <sys_user_role display_value="x_73996_test_integ.service" name="x_73996_test_integ.service">d980d7401b5f330006468733cc4bcbf6</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
